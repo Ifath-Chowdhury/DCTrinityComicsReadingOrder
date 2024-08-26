@@ -1,0 +1,3 @@
+DC Trinity Comic Book Reading Order Website
+
+This is a website designed to help people get into DC comic books, specifically the comic books for the characters Superman, Batman and Wonder Woman, otherwise known as the Trinity of DC. Comic book superheroes often have long histories and a lot of comics to read, making it daunting for newcomers to get into superheroes. This website is intended to alleviate that problem by having a simple guide on which comics to read to understand these characters.
